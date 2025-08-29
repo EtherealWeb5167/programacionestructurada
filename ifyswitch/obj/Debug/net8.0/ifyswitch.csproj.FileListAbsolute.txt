@@ -12,3 +12,4 @@ C:\Users\JoseSalgado\Documents\programacionestructurada\ifyswitch\obj\Debug\net8
 C:\Users\JoseSalgado\Documents\programacionestructurada\ifyswitch\obj\Debug\net8.0\ifyswitch.pdb
 C:\Users\JoseSalgado\Documents\programacionestructurada\ifyswitch\obj\Debug\net8.0\ifyswitch.genruntimeconfig.cache
 C:\Users\JoseSalgado\Documents\programacionestructurada\ifyswitch\obj\Debug\net8.0\ref\ifyswitch.dll
+C:\Users\JoseSalgado\Documents\programacionestructurada\ifyswitch\obj\Debug\net8.0\ifyswitch.sourcelink.json

@@ -1,0 +1,15 @@
+C:\Users\JoseSalgado\Documents\programacionestructurada\pruebadeswitch\bin\Debug\net8.0\pruebadeswitch.exe
+C:\Users\JoseSalgado\Documents\programacionestructurada\pruebadeswitch\bin\Debug\net8.0\pruebadeswitch.deps.json
+C:\Users\JoseSalgado\Documents\programacionestructurada\pruebadeswitch\bin\Debug\net8.0\pruebadeswitch.runtimeconfig.json
+C:\Users\JoseSalgado\Documents\programacionestructurada\pruebadeswitch\bin\Debug\net8.0\pruebadeswitch.dll
+C:\Users\JoseSalgado\Documents\programacionestructurada\pruebadeswitch\bin\Debug\net8.0\pruebadeswitch.pdb
+C:\Users\JoseSalgado\Documents\programacionestructurada\pruebadeswitch\obj\Debug\net8.0\pruebadeswitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoseSalgado\Documents\programacionestructurada\pruebadeswitch\obj\Debug\net8.0\pruebadeswitch.AssemblyInfoInputs.cache
+C:\Users\JoseSalgado\Documents\programacionestructurada\pruebadeswitch\obj\Debug\net8.0\pruebadeswitch.AssemblyInfo.cs
+C:\Users\JoseSalgado\Documents\programacionestructurada\pruebadeswitch\obj\Debug\net8.0\pruebadeswitch.csproj.CoreCompileInputs.cache
+C:\Users\JoseSalgado\Documents\programacionestructurada\pruebadeswitch\obj\Debug\net8.0\pruebadeswitch.sourcelink.json
+C:\Users\JoseSalgado\Documents\programacionestructurada\pruebadeswitch\obj\Debug\net8.0\pruebadeswitch.dll
+C:\Users\JoseSalgado\Documents\programacionestructurada\pruebadeswitch\obj\Debug\net8.0\refint\pruebadeswitch.dll
+C:\Users\JoseSalgado\Documents\programacionestructurada\pruebadeswitch\obj\Debug\net8.0\pruebadeswitch.pdb
+C:\Users\JoseSalgado\Documents\programacionestructurada\pruebadeswitch\obj\Debug\net8.0\pruebadeswitch.genruntimeconfig.cache
+C:\Users\JoseSalgado\Documents\programacionestructurada\pruebadeswitch\obj\Debug\net8.0\ref\pruebadeswitch.dll

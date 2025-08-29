@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ifyswitch")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("pruebadeswitch")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32887e907a8408d559a97e63fa0938ef538b8197")]
-[assembly: System.Reflection.AssemblyProductAttribute("ifyswitch")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ifyswitch")]
+[assembly: System.Reflection.AssemblyProductAttribute("pruebadeswitch")]
+[assembly: System.Reflection.AssemblyTitleAttribute("pruebadeswitch")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Généré par la classe MSBuild WriteCodeFragment.
