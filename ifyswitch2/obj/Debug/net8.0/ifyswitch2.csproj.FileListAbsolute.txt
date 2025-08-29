@@ -1,0 +1,14 @@
+C:\Users\JoseSalgado\Documents\programacionestructurada\ifyswitch2\bin\Debug\net8.0\ifyswitch2.exe
+C:\Users\JoseSalgado\Documents\programacionestructurada\ifyswitch2\bin\Debug\net8.0\ifyswitch2.deps.json
+C:\Users\JoseSalgado\Documents\programacionestructurada\ifyswitch2\bin\Debug\net8.0\ifyswitch2.runtimeconfig.json
+C:\Users\JoseSalgado\Documents\programacionestructurada\ifyswitch2\bin\Debug\net8.0\ifyswitch2.dll
+C:\Users\JoseSalgado\Documents\programacionestructurada\ifyswitch2\bin\Debug\net8.0\ifyswitch2.pdb
+C:\Users\JoseSalgado\Documents\programacionestructurada\ifyswitch2\obj\Debug\net8.0\ifyswitch2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoseSalgado\Documents\programacionestructurada\ifyswitch2\obj\Debug\net8.0\ifyswitch2.AssemblyInfoInputs.cache
+C:\Users\JoseSalgado\Documents\programacionestructurada\ifyswitch2\obj\Debug\net8.0\ifyswitch2.AssemblyInfo.cs
+C:\Users\JoseSalgado\Documents\programacionestructurada\ifyswitch2\obj\Debug\net8.0\ifyswitch2.csproj.CoreCompileInputs.cache
+C:\Users\JoseSalgado\Documents\programacionestructurada\ifyswitch2\obj\Debug\net8.0\ifyswitch2.dll
+C:\Users\JoseSalgado\Documents\programacionestructurada\ifyswitch2\obj\Debug\net8.0\refint\ifyswitch2.dll
+C:\Users\JoseSalgado\Documents\programacionestructurada\ifyswitch2\obj\Debug\net8.0\ifyswitch2.pdb
+C:\Users\JoseSalgado\Documents\programacionestructurada\ifyswitch2\obj\Debug\net8.0\ifyswitch2.genruntimeconfig.cache
+C:\Users\JoseSalgado\Documents\programacionestructurada\ifyswitch2\obj\Debug\net8.0\ref\ifyswitch2.dll

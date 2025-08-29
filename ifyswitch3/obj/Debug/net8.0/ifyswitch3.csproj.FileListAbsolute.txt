@@ -1,0 +1,14 @@
+C:\Users\JoseSalgado\Documents\programacionestructurada\ifyswitch3\bin\Debug\net8.0\ifyswitch3.exe
+C:\Users\JoseSalgado\Documents\programacionestructurada\ifyswitch3\bin\Debug\net8.0\ifyswitch3.deps.json
+C:\Users\JoseSalgado\Documents\programacionestructurada\ifyswitch3\bin\Debug\net8.0\ifyswitch3.runtimeconfig.json
+C:\Users\JoseSalgado\Documents\programacionestructurada\ifyswitch3\bin\Debug\net8.0\ifyswitch3.dll
+C:\Users\JoseSalgado\Documents\programacionestructurada\ifyswitch3\bin\Debug\net8.0\ifyswitch3.pdb
+C:\Users\JoseSalgado\Documents\programacionestructurada\ifyswitch3\obj\Debug\net8.0\ifyswitch3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoseSalgado\Documents\programacionestructurada\ifyswitch3\obj\Debug\net8.0\ifyswitch3.AssemblyInfoInputs.cache
+C:\Users\JoseSalgado\Documents\programacionestructurada\ifyswitch3\obj\Debug\net8.0\ifyswitch3.AssemblyInfo.cs
+C:\Users\JoseSalgado\Documents\programacionestructurada\ifyswitch3\obj\Debug\net8.0\ifyswitch3.csproj.CoreCompileInputs.cache
+C:\Users\JoseSalgado\Documents\programacionestructurada\ifyswitch3\obj\Debug\net8.0\ifyswitch3.dll
+C:\Users\JoseSalgado\Documents\programacionestructurada\ifyswitch3\obj\Debug\net8.0\refint\ifyswitch3.dll
+C:\Users\JoseSalgado\Documents\programacionestructurada\ifyswitch3\obj\Debug\net8.0\ifyswitch3.pdb
+C:\Users\JoseSalgado\Documents\programacionestructurada\ifyswitch3\obj\Debug\net8.0\ifyswitch3.genruntimeconfig.cache
+C:\Users\JoseSalgado\Documents\programacionestructurada\ifyswitch3\obj\Debug\net8.0\ref\ifyswitch3.dll
