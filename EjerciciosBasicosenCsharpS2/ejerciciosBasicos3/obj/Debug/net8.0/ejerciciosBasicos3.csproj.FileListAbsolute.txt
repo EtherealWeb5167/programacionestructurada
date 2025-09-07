@@ -1,0 +1,14 @@
+C:\Users\JoseSalgado\source\repos\sesion3\ejerciciosBasicos3\bin\Debug\net8.0\ejerciciosBasicos3.exe
+C:\Users\JoseSalgado\source\repos\sesion3\ejerciciosBasicos3\bin\Debug\net8.0\ejerciciosBasicos3.deps.json
+C:\Users\JoseSalgado\source\repos\sesion3\ejerciciosBasicos3\bin\Debug\net8.0\ejerciciosBasicos3.runtimeconfig.json
+C:\Users\JoseSalgado\source\repos\sesion3\ejerciciosBasicos3\bin\Debug\net8.0\ejerciciosBasicos3.dll
+C:\Users\JoseSalgado\source\repos\sesion3\ejerciciosBasicos3\bin\Debug\net8.0\ejerciciosBasicos3.pdb
+C:\Users\JoseSalgado\source\repos\sesion3\ejerciciosBasicos3\obj\Debug\net8.0\ejerciciosBasicos3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoseSalgado\source\repos\sesion3\ejerciciosBasicos3\obj\Debug\net8.0\ejerciciosBasicos3.AssemblyInfoInputs.cache
+C:\Users\JoseSalgado\source\repos\sesion3\ejerciciosBasicos3\obj\Debug\net8.0\ejerciciosBasicos3.AssemblyInfo.cs
+C:\Users\JoseSalgado\source\repos\sesion3\ejerciciosBasicos3\obj\Debug\net8.0\ejerciciosBasicos3.csproj.CoreCompileInputs.cache
+C:\Users\JoseSalgado\source\repos\sesion3\ejerciciosBasicos3\obj\Debug\net8.0\ejerciciosBasicos3.dll
+C:\Users\JoseSalgado\source\repos\sesion3\ejerciciosBasicos3\obj\Debug\net8.0\refint\ejerciciosBasicos3.dll
+C:\Users\JoseSalgado\source\repos\sesion3\ejerciciosBasicos3\obj\Debug\net8.0\ejerciciosBasicos3.pdb
+C:\Users\JoseSalgado\source\repos\sesion3\ejerciciosBasicos3\obj\Debug\net8.0\ejerciciosBasicos3.genruntimeconfig.cache
+C:\Users\JoseSalgado\source\repos\sesion3\ejerciciosBasicos3\obj\Debug\net8.0\ref\ejerciciosBasicos3.dll
