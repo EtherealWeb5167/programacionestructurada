@@ -1,0 +1,15 @@
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio1Calificaciones\bin\Debug\net8.0\Ejercicio1Calificaciones.exe
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio1Calificaciones\bin\Debug\net8.0\Ejercicio1Calificaciones.deps.json
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio1Calificaciones\bin\Debug\net8.0\Ejercicio1Calificaciones.runtimeconfig.json
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio1Calificaciones\bin\Debug\net8.0\Ejercicio1Calificaciones.dll
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio1Calificaciones\bin\Debug\net8.0\Ejercicio1Calificaciones.pdb
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio1Calificaciones\obj\Debug\net8.0\Ejercicio1Calificaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio1Calificaciones\obj\Debug\net8.0\Ejercicio1Calificaciones.AssemblyInfoInputs.cache
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio1Calificaciones\obj\Debug\net8.0\Ejercicio1Calificaciones.AssemblyInfo.cs
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio1Calificaciones\obj\Debug\net8.0\Ejercicio1Calificaciones.csproj.CoreCompileInputs.cache
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio1Calificaciones\obj\Debug\net8.0\Ejercicio1Calificaciones.sourcelink.json
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio1Calificaciones\obj\Debug\net8.0\Ejercicio1Calificaciones.dll
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio1Calificaciones\obj\Debug\net8.0\refint\Ejercicio1Calificaciones.dll
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio1Calificaciones\obj\Debug\net8.0\Ejercicio1Calificaciones.pdb
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio1Calificaciones\obj\Debug\net8.0\Ejercicio1Calificaciones.genruntimeconfig.cache
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio1Calificaciones\obj\Debug\net8.0\ref\Ejercicio1Calificaciones.dll

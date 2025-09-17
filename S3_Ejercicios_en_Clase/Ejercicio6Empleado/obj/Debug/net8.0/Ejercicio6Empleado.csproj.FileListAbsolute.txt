@@ -1,0 +1,15 @@
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio6Empleado\bin\Debug\net8.0\Ejercicio6Empleado.exe
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio6Empleado\bin\Debug\net8.0\Ejercicio6Empleado.deps.json
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio6Empleado\bin\Debug\net8.0\Ejercicio6Empleado.runtimeconfig.json
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio6Empleado\bin\Debug\net8.0\Ejercicio6Empleado.dll
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio6Empleado\bin\Debug\net8.0\Ejercicio6Empleado.pdb
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio6Empleado\obj\Debug\net8.0\Ejercicio6Empleado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio6Empleado\obj\Debug\net8.0\Ejercicio6Empleado.AssemblyInfoInputs.cache
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio6Empleado\obj\Debug\net8.0\Ejercicio6Empleado.AssemblyInfo.cs
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio6Empleado\obj\Debug\net8.0\Ejercicio6Empleado.csproj.CoreCompileInputs.cache
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio6Empleado\obj\Debug\net8.0\Ejercicio6Empleado.sourcelink.json
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio6Empleado\obj\Debug\net8.0\Ejercicio6Empleado.dll
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio6Empleado\obj\Debug\net8.0\refint\Ejercicio6Empleado.dll
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio6Empleado\obj\Debug\net8.0\Ejercicio6Empleado.pdb
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio6Empleado\obj\Debug\net8.0\Ejercicio6Empleado.genruntimeconfig.cache
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio6Empleado\obj\Debug\net8.0\ref\Ejercicio6Empleado.dll

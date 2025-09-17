@@ -1,0 +1,15 @@
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio4Biblioteca\bin\Debug\net8.0\Ejercicio4Biblioteca.exe
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio4Biblioteca\bin\Debug\net8.0\Ejercicio4Biblioteca.deps.json
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio4Biblioteca\bin\Debug\net8.0\Ejercicio4Biblioteca.runtimeconfig.json
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio4Biblioteca\bin\Debug\net8.0\Ejercicio4Biblioteca.dll
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio4Biblioteca\bin\Debug\net8.0\Ejercicio4Biblioteca.pdb
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio4Biblioteca\obj\Debug\net8.0\Ejercicio4Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio4Biblioteca\obj\Debug\net8.0\Ejercicio4Biblioteca.AssemblyInfoInputs.cache
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio4Biblioteca\obj\Debug\net8.0\Ejercicio4Biblioteca.AssemblyInfo.cs
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio4Biblioteca\obj\Debug\net8.0\Ejercicio4Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio4Biblioteca\obj\Debug\net8.0\Ejercicio4Biblioteca.sourcelink.json
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio4Biblioteca\obj\Debug\net8.0\Ejercicio4Biblioteca.dll
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio4Biblioteca\obj\Debug\net8.0\refint\Ejercicio4Biblioteca.dll
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio4Biblioteca\obj\Debug\net8.0\Ejercicio4Biblioteca.pdb
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio4Biblioteca\obj\Debug\net8.0\Ejercicio4Biblioteca.genruntimeconfig.cache
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio4Biblioteca\obj\Debug\net8.0\ref\Ejercicio4Biblioteca.dll

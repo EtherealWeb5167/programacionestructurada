@@ -1,0 +1,15 @@
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio3Cajero\bin\Debug\net8.0\Ejercicio3Cajero.exe
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio3Cajero\bin\Debug\net8.0\Ejercicio3Cajero.deps.json
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio3Cajero\bin\Debug\net8.0\Ejercicio3Cajero.runtimeconfig.json
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio3Cajero\bin\Debug\net8.0\Ejercicio3Cajero.dll
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio3Cajero\bin\Debug\net8.0\Ejercicio3Cajero.pdb
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio3Cajero\obj\Debug\net8.0\Ejercicio3Cajero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio3Cajero\obj\Debug\net8.0\Ejercicio3Cajero.AssemblyInfoInputs.cache
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio3Cajero\obj\Debug\net8.0\Ejercicio3Cajero.AssemblyInfo.cs
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio3Cajero\obj\Debug\net8.0\Ejercicio3Cajero.csproj.CoreCompileInputs.cache
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio3Cajero\obj\Debug\net8.0\Ejercicio3Cajero.sourcelink.json
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio3Cajero\obj\Debug\net8.0\Ejercicio3Cajero.dll
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio3Cajero\obj\Debug\net8.0\refint\Ejercicio3Cajero.dll
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio3Cajero\obj\Debug\net8.0\Ejercicio3Cajero.pdb
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio3Cajero\obj\Debug\net8.0\Ejercicio3Cajero.genruntimeconfig.cache
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio3Cajero\obj\Debug\net8.0\ref\Ejercicio3Cajero.dll

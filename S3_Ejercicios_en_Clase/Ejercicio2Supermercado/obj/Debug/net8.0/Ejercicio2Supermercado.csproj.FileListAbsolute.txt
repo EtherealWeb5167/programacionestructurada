@@ -1,0 +1,15 @@
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio2Supermercado\bin\Debug\net8.0\Ejercicio2Supermercado.exe
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio2Supermercado\bin\Debug\net8.0\Ejercicio2Supermercado.deps.json
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio2Supermercado\bin\Debug\net8.0\Ejercicio2Supermercado.runtimeconfig.json
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio2Supermercado\bin\Debug\net8.0\Ejercicio2Supermercado.dll
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio2Supermercado\bin\Debug\net8.0\Ejercicio2Supermercado.pdb
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio2Supermercado\obj\Debug\net8.0\Ejercicio2Supermercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio2Supermercado\obj\Debug\net8.0\Ejercicio2Supermercado.AssemblyInfoInputs.cache
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio2Supermercado\obj\Debug\net8.0\Ejercicio2Supermercado.AssemblyInfo.cs
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio2Supermercado\obj\Debug\net8.0\Ejercicio2Supermercado.csproj.CoreCompileInputs.cache
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio2Supermercado\obj\Debug\net8.0\Ejercicio2Supermercado.sourcelink.json
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio2Supermercado\obj\Debug\net8.0\Ejercicio2Supermercado.dll
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio2Supermercado\obj\Debug\net8.0\refint\Ejercicio2Supermercado.dll
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio2Supermercado\obj\Debug\net8.0\Ejercicio2Supermercado.pdb
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio2Supermercado\obj\Debug\net8.0\Ejercicio2Supermercado.genruntimeconfig.cache
+C:\Users\JoseSalgado\source\repos\sesion3\Ejercicio2Supermercado\obj\Debug\net8.0\ref\Ejercicio2Supermercado.dll
